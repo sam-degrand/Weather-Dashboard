@@ -36,10 +36,7 @@ A live demo of the Weather Dashboard can be found at [https://sam-degrand.github
 Include some screenshots of your application in action. For example:
 
 ![Screenshot 1](screenshots/screenshot1.png)
-_Description or caption_
 
-![Screenshot 2](screenshots/screenshot2.png)
-_Description or caption_
 
 ## License
 
