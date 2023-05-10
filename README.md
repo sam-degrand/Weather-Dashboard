@@ -31,9 +31,7 @@ To run the Weather Dashboard locally, follow these steps:
 
 A live demo of the Weather Dashboard can be found at [https://sam-degrand.github.io/Weather-Dashboard/](https://sam-degrand.github.io/Weather-Dashboard/).
 
-## Screenshots
-
-Include some screenshots of your application in action. For example:
+## Screenshot
 
 ![Screenshot 1](screenshots/screenshot1.png)
 
