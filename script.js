@@ -86,7 +86,6 @@ function currentWeather(city){
 }
     // This function returns the UVIindex response.
 function UVIndex(ln,lt){
-    //lets build the url for uvindex.
     var uvqURL="https://api.openweathermap.org/data/2.5/uvi?appid="+ APIKey+"&lat="+lt+"&lon="+ln;
     $.ajax({
             url:uvqURL,
@@ -122,7 +121,7 @@ function forecast(cityid){
     });
 }
 
-//Dynamically add the passed city on the search history
+//add the passed city on the search history
 function addToList(c){
     var listEl= $("<li>"+c.toUpperCase()+"</li>");
     $(listEl).attr("class","list-group-item");
